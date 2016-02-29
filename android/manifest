@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
+version: 1.1.0
 apiversion: 2
 architectures: armeabi armeabi-v7a x86
 description: Appcelerator Module to use Android's Native SwipeRefreshLayout
@@ -15,4 +15,4 @@ name: swipetorefresh
 moduleid: br.com.leoleal.swipetorefresh
 guid: 7bcdf1db-e172-490d-9c46-6c7d596f5a3e
 platform: android
-minsdk: 4.1.0.GA
+minsdk: 5.2.0.GA
